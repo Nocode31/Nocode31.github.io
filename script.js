@@ -590,7 +590,7 @@ const ringTexts = [
   'My efforts for you',//untuk deskripsi planet layer 1
   "I love you",//untuk deskripsi planet layer 2
   "♡Semangat Yaa Sayang♡",//untuk deskripsi planet layer 3
-  "Aku selalu dukung dari jauh",//untuk deskripsi planet layer 4
+  "Aku selalu support kamu dari jauh:)",//untuk deskripsi planet layer 4
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
